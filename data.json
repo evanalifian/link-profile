@@ -1,0 +1,60 @@
+{
+  "social_media": [
+    {
+      "name": "Instagram",
+      "icon": "./public/icons/instagram.svg",
+      "username": "cnsl.lg",
+      "url": "https://www.instagram.com/cnsl.lg/"
+    },
+    {
+      "name": "Instagram",
+      "icon": "./public/icons/instagram.svg",
+      "username": "evanalifian",
+      "url": "https://www.instagram.com/evanalifian/"
+    },
+    {
+      "name": "X",
+      "icon": "./public/icons/twitter.svg",
+      "username": "evanalifian",
+      "url": "https://x.com/evanalifian"
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "./public/icons/linkedin.svg",
+      "username": "evanalifian",
+      "url": "https://www.linkedin.com/in/evanalifian/"
+    },
+    {
+      "name": "GitHub",
+      "icon": "./public/icons/github.svg",
+      "username": "evanalifian",
+      "url": "https://github.com/evanalifian"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML5",
+      "icon": "./public/icons/html5.svg"
+    },
+    {
+      "name": "CSS",
+      "icon": "./public/icons/css3.svg"
+    },
+    {
+      "name": "JavaScript",
+      "icon": "./public/icons/javascript.svg"
+    },
+    {
+      "name": "Bootstrap",
+      "icon": "./public/icons/bootstrap.svg"
+    },
+    {
+      "name": "TailwindCSS",
+      "icon": "./public/icons/tailwindcss.svg"
+    },
+    {
+      "name": "React.js",
+      "icon": "./public/icons/react.svg"
+    }
+  ]
+}

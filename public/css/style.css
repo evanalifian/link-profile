@@ -1,0 +1,30 @@
+.content_skills > ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.content_social > ul {
+  display: flex;
+  flex-direction: column;
+  row-gap: 12px;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  row-gap: 12px;
+  text-align: center;
+  padding-bottom: 16px;
+  margin-top: auto;
+}
+
+footer span {
+  font-size: 12px;
+}

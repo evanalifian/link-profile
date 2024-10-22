@@ -1,0 +1,79 @@
+.container {
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.badge {
+  display: inline-block;
+  border-radius: 16px;
+  padding: 2px 12px;
+  margin-bottom: 4px;
+  background-color: rgb(15 23 42);
+  color: rgb(209 213 219);
+  font-size: 12px;
+}
+
+.profile {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.profile_header {
+  display: flex;
+  align-items: center;
+  column-gap: 16px;
+}
+
+.profile_header_image {
+  border: 2px solid rgb(209 213 219);
+  border-radius: 16px;
+  padding: 4px;
+}
+
+.profile_header_title {
+  display: flex;
+  flex-direction: column;
+  row-gap: 4px;
+}
+
+.profile_header_title_name {
+  font-size: 24px;
+}
+
+.content {
+  margin-top: 12px;
+  padding-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 32px;
+}
+
+.social_card {
+  display: flex;
+  column-gap: 24px;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(250 250 250);
+  border: 2px solid rgb(209 213 219);
+  border-radius: 16px;
+  padding: 16px;
+}
+
+.social_card_title {
+  display: flex;
+  flex-direction: column;
+  row-gap: 4px;
+}
+
+.social_card_title_name {
+  color: rgb(51 65 85);
+}
+
+.social_card_title_username {
+  font-size: 18px;
+  font-weight: 600;
+  color: rgb(63 63 70);
+}
